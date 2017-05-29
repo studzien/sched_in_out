@@ -1,0 +1,6 @@
+{"1.1.0",
+[{<<"hdr_histogram">>,{pkg,<<"hdr_histogram">>,<<"0.2.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"hdr_histogram">>, <<"95A7EC3C8FA354E4CFBFC8F4168EE8F07BD3965CA22B9C45B2A2C9D13B03DCEC">>}]}
+].
